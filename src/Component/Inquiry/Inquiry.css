@@ -1,0 +1,81 @@
+.contuct {
+    padding-top: 100px;
+}
+
+.contuct_img {
+    background-image: url(../../../././public/images/contuct_img.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 50%;
+}
+
+.contuct_img h2 {
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 54px;
+    color: #FFFFFF;
+
+}
+
+.contuct_text {
+    text-align: center;
+    padding-top: 30%;
+
+}
+
+.contuct_from {
+    width: 50%;
+    background: #1C1E53;
+    padding: 100px;
+}
+
+.contuct_main {
+    display: flex;
+}
+
+.from_heading h2 {
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 32px;
+    color: #FFFFFF;
+    padding-left: 100px;
+
+}
+
+.from_heading p {
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: #F4F6FC;
+    padding: 10px 20px;
+
+}
+
+.from {
+    width: 432px;
+    height: 232px;
+}
+
+.input {
+    width: 432px;
+    height: 64px;
+    background-color: #1C1E53;
+    border: 2px solid rgba(255, 255, 255, 0.05);
+    border-radius: 8px;
+    border-radius: 8px;
+}
+
+.button {
+    padding: 25px;
+}
+
+.btn {
+    padding: 16px 100px;
+
+    background: #FCD980;
+    border-radius: 41px;
+    border: none;
+
+}

@@ -1,0 +1,60 @@
+.bannars {
+    padding: 100px 0;
+}
+
+.studios_Envornment {
+
+    padding: 60px 0;
+
+}
+
+.bannar_header {
+    font-weight: 400;
+    font-size: 38px;
+    line-height: 64px;
+    text-align: center;
+    color: black;
+
+
+
+}
+
+.bannar_header p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    text-align: center;
+
+    color: white;
+
+
+}
+
+.Bannar_img {
+    background-image: url(../../../public/images/bannar.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 477px;
+}
+
+.Bannar_footer {
+    height: 84px;
+    text-align: center;
+    padding-top: 48px;
+}
+
+.Bannar_footer p {
+    color: #282938;
+    opacity: 0.7;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.bannar_btn {
+    color: #2405F2;
+    font-size: 16px;
+    opacity: 0.7;
+    font-weight: 400;
+    padding-top: 16px;
+}

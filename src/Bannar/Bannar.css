@@ -1,0 +1,61 @@
+.bannar {
+    background-color: #1C1E53;
+    padding: 200px 0;
+    transition: 0.5s;
+}
+
+.banar_mains {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.bannar_text {
+    width: 582px;
+}
+
+.bannar_text h3 {
+    font-weight: 600;
+    font-size: 44px;
+    line-height: 74px;
+    color: #FFFFFF;
+
+}
+
+.bannar_text p {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: #FFFFFF;
+    opacity: 0.7;
+
+}
+
+.bannar_btn a {
+    padding: 16px 52px;
+    border-radius: 41px;
+    border: 1px solid white;
+    margin-top: 63px;
+    color: white;
+    position: relative;
+    margin-left: 5px;
+}
+
+.bannar_btn a:hover {
+    background-color: #FCD980;
+    color: black;
+    border: 1 px transparent;
+}
+
+.bannar_btn i {
+    position: absolute;
+    top: 55%;
+    right: 10px;
+
+    right: 33px;
+    transform: translateY(-50%);
+
+
+}

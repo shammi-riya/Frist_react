@@ -1,0 +1,18 @@
+.footer_menu {
+    height: 92px;
+}
+
+.footer_flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 92px;
+}
+
+.footer_item ul li {
+    display: inline-block;
+}
+
+.footer_item ul li a {
+    padding: 0 20px;
+}
